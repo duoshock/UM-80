@@ -36,7 +36,7 @@
 
 **15 x M2 3mm Standoffs** (Only 13 are required)
 
-**10 x M2 Shims** (Only 13 are required)
+**10 x M2 washers** (Only 13 are required)
 
 **20 x M3 5mm screws** (Only 16 are required)
 
@@ -166,7 +166,7 @@ _Optional, AST1109MLTRQ buzzer is not included in the kit_
 <img src="images/Buzzer_A_R.jpg" width="400">
 </a>
 
-Buzzers are located on the top sides of each PCB. Only solder a buzzer on the master half (Left half by default. Note that this can be changed. Be sure to solder the buzzer to the half that will be plugged into your PC via USB-C).
+Buzzers are located on the top sides of each PCB. Only solder a buzzer on the master half (Left half by default. Only solder the buzzer to the half that will be plugged into your PC via USB-C).
 
 - _Audio is not enabled by default._
 
@@ -196,7 +196,6 @@ Connect both halves with TRRS cable **_first_**, and then connect USB cable to t
 
 Check that all LEDs are working before proceeding to the next step.
 
-
 ### **Troubleshooting LEDs**
 
 <a href="images/LEDOrder_L.jpg">
@@ -215,6 +214,8 @@ For example, if LED 24-39 doesn’t light up, check LED 23 and 24.
 - Make sure there is a capacitor, it may have got knocked off during handling
 
 - It’s not unusual to encounter a faulty RGB LED, replace it.
+
+- Make sure the right side is connected via TRRS cable.
 
 Once all LEDs are working, move on to the next step
 
