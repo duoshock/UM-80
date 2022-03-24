@@ -281,8 +281,8 @@ Insert switches to plate and PCB. Switches should seat flush on the PCB.
 <a href="images/PCBMountholes_L.jpg">
 <img src="images/PCBMountholes_L.jpg" width="400">
 </a>
-<a href="images/PCBMountholes_R_V2-2.jpg">
-<img src="images/PCBMountholes_R_v2-2.jpg" width="400">
+<a href="images/PCBMountholes_R.jpg">
+<img src="images/PCBMountholes_R.jpg" width="400">
 </a>
 
 Secure PCB to plate with M2 screws. 
