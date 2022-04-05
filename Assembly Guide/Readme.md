@@ -1,50 +1,40 @@
-# UM-75 Assembly Guide
+# UM-80 Assembly Guide
 
-## **Content of UM-75 Kit**
+## **Content of UM-80 Kit**
 
-<a href="images/00_WhatsInTheBox.jpg">
-<img src="images/00_WhatsInTheBox.jpg" width="400">
+<a href="images/Content.jpg">
+<img src="images/Content.jpg" width="400">
 </a>
 
-**Housing** 
-- 2 x Top Case
-- 2 x Rear Cover
-- 2 x Side Panel
+**Printed Parts** 
+- 2 x Top Cases
+- 2 x Rear Covers
+- 2 x Side Panels
 - 1 x Rotary Encoder Knob
 
-**RF4 Plate**
-- 1 x Left
-- 1 x Right
+**Electronics**
+- 1 x Main PCB (Left & Right)
+- 1 x OLED Screen PCB
+- 1 x OLED Screen
+- 2 x 4 Pins Sockets
+- 1 x 4 Pins Cable
+- 1 x Encoder
+- 120 x SK6812MINI RGB LED (Only 100 are required)
+- 90 x Hot swap sockets (Only 87/88 are required)
+- 2 x TRRS PJ-320A
 
-**1 x OLED Screen PCB**
+**Fasteners**
+- 30 x M2 3mm screws** (Only 26 are required)
+- 15 x M2 3mm Standoffs** (Only 13 are required)
+- 10 x M2 washers** (Only 13 are required)
+- 20 x M3 5mm screws** (Only 16 are required)
+- 5 x M3 16mm screws** (Only 4 are required)
+- 5 x M3 25mm screws** (Only 4 are required)
 
-**1 x OLED Screen**
+**Miscellaneous**
+- 1 x FR4 Plates (Left & Right)
+- 8 x Rubber feet
 
-**2 x 4 Pins Sockets**
-
-**1 x 4 Pins Cable**
-
-**1 x Encoder**
-
-**120 x SK6812MINI RGB LED** (Only 100 are required)
-
-**90 x Hot swap sockets** (Only 87/88 are required)
-
-**2 x TRRS PJ-320A**
-
-**30 x M2 3mm screws** (Only 26 are required)
-
-**15 x M2 3mm Standoffs** (Only 13 are required)
-
-**10 x M2 washers** (Only 13 are required)
-
-**20 x M3 5mm screws** (Only 16 are required)
-
-**5 x M3 16mm screws** (Only 4 are required)
-
-**5 x M3 25mm screws** (Only 4 are required)
-
-**8 x Rubber feet**
 
 
 ---
