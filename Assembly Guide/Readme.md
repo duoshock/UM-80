@@ -396,13 +396,13 @@ Place the side panel onto the case.
 
 Stack default cover onto the case with side panal, then fasten it with 5mm and 16mm screws.
 
-**With tented feet**
+**With tenting risers**
 
 <a href="images/Case_asm_tented.jpg">
 <img src="images/Case_asm_tented.jpg" width="400">
 </a>
 
-Stack tneted feet and default cover onto the case with side panal, then fasten it with 16mm and 25mm screws.
+Stack the raiser and default cover onto the case with side panal, then fasten it with 16mm and 25mm screws.
 
 ---
 
