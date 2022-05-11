@@ -24,12 +24,12 @@
 - 2 x TRRS PJ-320A
 
 **Fasteners**
-- 30 x M2 3mm screws** (Only 26 are required)
-- 15 x M2 3mm Standoffs** (Only 13 are required)
-- 10 x M2 washers** (Only 13 are required)
-- 20 x M3 5mm screws** (Only 16 are required)
-- 5 x M3 16mm screws** (Only 4 are required)
-- 5 x M3 25mm screws** (Only 4 are required)
+- 30 x M2 3mm screws (Only 26 are required)
+- 15 x M2 3mm Standoffs (Only 13 are required)
+- 15 x M2 washers (Only 13 are required)
+- 20 x M3 5mm screws (Only 16 are required)
+- 5 x M3 16mm screws (Only 4 are required)
+- 5 x M3 25mm screws (Only 4 are required)
 
 **Miscellaneous**
 - 1 x FR4 Plates (Left & Right)
