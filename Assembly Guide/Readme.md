@@ -36,9 +36,25 @@
 - 8 x Rubber feet
 
 
-
 ---
 
+## **FAQ** ##
+
+- **Why some keys are not registered on the right half when testing the PCB by connecting via USB cable?**
+
+    The Left and right sides have a different key matrix (i.e. different number of keys). The pre-flashed firmware is set as master left, so when testing the right side via USB, the computer registers it as the left side which has less key than the right side.
+
+    So it's normal to have some keys not registered on the right side when it is connected via USB. To perform a proper test, connect the right half via TRRS cable.
+
+
+
+- **Why it disconnect when I plug in the TRRS cable?**
+
+    TRRS cable carries data and power to the other half. When plugging the cable into the TRRS jack, the ring that carries power makes contact with the data pin and short the MCU. In most cases, the MCU will be fine after disconnecting the power, but something it can corrupts the EEPROM. In rare instance, kills the MCU. 
+
+    *SO PLEASE DO NOT PLUG/UNPLUG TRRS CABLE WHEN POWER IS ON (I.E. WHEN USB CABLE IS CONNECTED).*
+
+---
 
 ## **Test the PCBs before soldering**
 
