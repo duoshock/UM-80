@@ -32,4 +32,4 @@ All parts are designed to be printed with 0.4 nozzle at 0.2mm layer height witho
 <img src="img/UM80_Print_Insert_R.jpg" width="400">
 </a>
 
-PCB kit comes with heat-set threaded inserts for both halves. All mount holes are designed to accept M3 OD5 x H5 except OLED mounts which is OD4.2 x H3. See above for details.
+PCB kit comes with heat-set threaded inserts for both halves. All mount holes are designed to accept M3 OD5 x H4 except OLED mounts which is OD4.2 x H3. See above for details.
